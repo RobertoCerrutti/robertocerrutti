@@ -1,4 +1,4 @@
-## 🧠 Sobre mim
+## Sobre mim
 
 Trabalho com desenvolvimento de sistemas, focando em estrutura, clareza e propósito, utilizando a criatividade como parte do processo de solução.  
 Sou movido pela curiosidade de entender como as coisas funcionam.
