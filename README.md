@@ -1,5 +1,11 @@
-## Hi there 👋
+## 🧠 Sobre mim
 
+Trabalho com desenvolvimento de sistemas, focando em estrutura, clareza e propósito, utilizando a criatividade como parte do processo de solução.  
+Sou movido pela curiosidade de entender como as coisas funcionam.
+
+- • Desenvolvedor Front-End
+- • Noções de UI/UX
+- • Estudante de Sistemas de Informação
 <!--
 **RobertoCerrutti/robertocerrutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
