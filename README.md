@@ -8,7 +8,7 @@ Sou movido pela curiosidade de entender como as coisas funcionam.
 -  Estudante de Sistemas de Informação
 -  ---
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +20,7 @@ Sou movido pela curiosidade de entender como as coisas funcionam.
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
